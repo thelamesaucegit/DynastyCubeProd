@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thelamesaucegit.github.io/DynastyCube/sitemap.xml

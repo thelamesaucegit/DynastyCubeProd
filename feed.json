@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Dynasty Cube",
+    "description": "",
+    "home_page_url": "https://thelamesaucegit.github.io/DynastyCube",
+    "feed_url": "https://thelamesaucegit.github.io/DynastyCube/feed.json",
+    "user_comment": "",
+    "icon": "https://thelamesaucegit.github.io/DynastyCube/media/website/NewLogo.jpg",
+    "author": {
+        "name": "Josh Taylor"
+    },
+    "items": [
+    ]
+}
