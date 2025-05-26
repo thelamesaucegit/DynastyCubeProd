@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>The Dynasty Cube</title>
-    <link href="https://thelamesaucegit.github.io/DynastyCube/feed.xml" rel="self" />
-    <link href="https://thelamesaucegit.github.io/DynastyCube" />
+    <link href="https://www.thedynastycube.com/feed.xml" rel="self" />
+    <link href="https://www.thedynastycube.com" />
     <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>Josh Taylor</name>
     </author>
-    <id>https://thelamesaucegit.github.io/DynastyCube</id>
+    <id>https://www.thedynastycube.com</id>
 
 </feed>

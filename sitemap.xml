@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://thelamesaucegit.github.io/DynastyCube/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.thedynastycube.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://thelamesaucegit.github.io/DynastyCube/</loc>
+<loc>https://www.thedynastycube.com/</loc>
 </url>
 <url>
-<loc>https://thelamesaucegit.github.io/DynastyCube/about-the-dynasty-cube/</loc>
+<loc>https://www.thedynastycube.com/about-the-dynasty-cube/</loc>
 <lastmod>2025-04-30T14:39:40-05:00</lastmod>
 </url>
 <url>
-<loc>https://thelamesaucegit.github.io/DynastyCube/account/</loc>
+<loc>https://www.thedynastycube.com/account/</loc>
 <lastmod>2025-04-28T13:18:31-05:00</lastmod>
 </url>
 <url>
-<loc>https://thelamesaucegit.github.io/DynastyCube/dashboard/</loc>
+<loc>https://www.thedynastycube.com/dashboard/</loc>
 <lastmod>2025-05-01T11:11:14-05:00</lastmod>
 </url>
 <url>
-<loc>https://thelamesaucegit.github.io/DynastyCube/discord/</loc>
+<loc>https://www.thedynastycube.com/discord/</loc>
 <lastmod>2025-04-30T15:00:47-05:00</lastmod>
 </url>
 <url>
-<loc>https://thelamesaucegit.github.io/DynastyCube/schedule/</loc>
+<loc>https://www.thedynastycube.com/schedule/</loc>
 <lastmod>2025-04-28T13:20:29-05:00</lastmod>
 </url>
 <url>
-<loc>https://thelamesaucegit.github.io/DynastyCube/the-marketplace/</loc>
+<loc>https://www.thedynastycube.com/the-marketplace/</loc>
 <lastmod>2025-04-28T13:19:52-05:00</lastmod>
 </url>
 <url>
-<loc>https://thelamesaucegit.github.io/DynastyCube/the-pools/</loc>
+<loc>https://www.thedynastycube.com/the-pools/</loc>
 <lastmod>2025-04-28T13:17:13-05:00</lastmod>
 </url>
 <url>
-<loc>https://thelamesaucegit.github.io/DynastyCube/the-teams/</loc>
+<loc>https://www.thedynastycube.com/the-teams/</loc>
 <lastmod>2025-04-30T14:48:17-05:00</lastmod>
 </url>
 <url>
-<loc>https://thelamesaucegit.github.io/DynastyCube/the-voting-booth/</loc>
+<loc>https://www.thedynastycube.com/the-voting-booth/</loc>
 <lastmod>2025-04-28T13:21:15-05:00</lastmod>
 </url>
 </urlset>
