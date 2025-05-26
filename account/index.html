@@ -9,4 +9,15 @@
                     this.classList.add('is-loaded');
                 }, false);
             }
-        }</script></body></html>
+        }</script>
+        import { PasswordResetForm } from "@userfront/next/client";
+
+        export default function PasswordResetPage() {
+          return <PasswordResetForm theme='{"colors":{"light":"#ffffff","dark":"#5e72e4","accent":"#13a0ff","lightBackground":"#fdfdfd","darkBackground":"#2d2d2d"},"colorScheme":"dark","fontFamily":"Avenir, Helvetica, Arial, sans-serif","size":"default","extras":{"hideSecuredMessage":false}}' />;
+        }
+    import { LogoutButton } from "@userfront/next/client";
+
+    export default function Component() {
+      return <LogoutButton theme='{"colors":{"light":"#ffffff","dark":"#5e72e4","accent":"#13a0ff","lightBackground":"#fdfdfd","darkBackground":"#2d2d2d"},"colorScheme":"dark","fontFamily":"Avenir, Helvetica, Arial, sans-serif","size":"default","extras":{"hideSecuredMessage":false}}' />;
+    }    
+    </body></html>
