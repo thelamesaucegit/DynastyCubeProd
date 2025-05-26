@@ -617,3 +617,20 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 })();
+// src/app/layout.js
+
+import { UserfrontProvider } from "@userfront/next/client";
+
+export default function RootLayout({ children }) {
+  return (
+    <html lang="en">
+      <body>
+        <UserfrontProvider
+          tenantId={process.env.NEXT_PUBLIC_USERFRONT_WORKSPACE_ID}
+        >
+          {children}
+        </UserfrontProvider>
+      </body>
+    </html>
+  );
+}
